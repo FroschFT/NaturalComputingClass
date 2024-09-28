@@ -5,10 +5,10 @@ This public repository is dedicated to the Natural Computing class. All experime
 Natural computing is an interdisciplinary field that draws inspiration from nature to develop computational systems and algorithms. It encompasses a variety of subfields, each inspired by different natural phenomena.
 
 # Current Reference of Work
-The notebook for current programming work [Scheduler Experiment](NaturalComputingCourse\5_Experiment\SchedulerExperiment.ipynb)
+The notebook for current programming work [Scheduler Experiment](5_Experiment/SchedulerExperiment.ipynb)
 is a interesting process mapping and task schedulling experiment visualization.
 
-The [Imunologic Notebook](NaturalComputingCourse\4_Imunologic\Imunologic.ipynb) have some interesting data comparisons for the [Zoo Dataset](https://archive.ics.uci.edu/dataset/111/zoo)
+The [Imunologic Notebook](4_Imunologic\Imunologic.ipynb) have some interesting data comparisons for the [Zoo Dataset](https://archive.ics.uci.edu/dataset/111/zoo)
 
 
 
