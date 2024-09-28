@@ -8,7 +8,7 @@ Natural computing is an interdisciplinary field that draws inspiration from natu
 The notebook for current programming work [Scheduler Experiment](5_Experiment/SchedulerExperiment.ipynb)
 is a interesting process mapping and task schedulling experiment visualization.
 
-The [Imunologic Notebook](4_Imunologic\Imunologic.ipynb) have some interesting data comparisons for the [Zoo Dataset](https://archive.ics.uci.edu/dataset/111/zoo)
+The [Imunologic Notebook](4_Imunologic/Imunologic.ipynb) have some interesting data comparisons for the [Zoo Dataset](https://archive.ics.uci.edu/dataset/111/zoo)
 
 
 
