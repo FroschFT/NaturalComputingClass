@@ -1,4 +1,4 @@
-# NaturalComputingClass
+# Natural Computing Class
 
 This public repository is dedicated to the Natural Computing class. All experiments are conducted solely for research purposes and are not intended for commercial use or publication without proper authorization.
 
